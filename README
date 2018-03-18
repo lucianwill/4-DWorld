@@ -1,0 +1,8 @@
+4-D Explorer
+============
+
+This is just method for projecting 4-D space down into 3-D using perspective
+where the origin is always the vanishing point, and projecting the 3-D
+projection onto the monitor using a standard isometric method. The
+camera currently can pan in 3 dimensions and rotate in all 3-D rotations
+such that the direction of the camera never changes.
